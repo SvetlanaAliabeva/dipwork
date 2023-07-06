@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "dipwork"
+version = "0.1.0"
+description = ""
+authors = ["S_Kri <s_krivosheya@mail.ru>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+django = "^4.2.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
